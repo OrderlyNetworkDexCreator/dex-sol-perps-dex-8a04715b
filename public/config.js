@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/solperpsbot",
   "VITE_SEO_SITE_NAME": "Sol Perps Dex",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.solperpsbot.io",
+  "VITE_SEO_SITE_URL": "https://test-app.solperpsbot.io",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@solperpsdex",
